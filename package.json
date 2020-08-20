@@ -1,0 +1,27 @@
+{
+  "name": "unittestingenzyme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obiwan45459/UnitTestingEnzyme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obiwan45459/UnitTestingEnzyme/issues"
+  },
+  "homepage": "https://github.com/obiwan45459/UnitTestingEnzyme#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.3"
+  }
+}
